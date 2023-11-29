@@ -32,10 +32,6 @@
 > sniffing keystrokes on site, the recorded keys will be in your remote server in the   >keylog.txt file.
 ```
 
-## Usage
-```shell
-sudo python3 LTT_ATTACK.py
-```
 
 ## 0xTHX
 Thanks for watching:D
