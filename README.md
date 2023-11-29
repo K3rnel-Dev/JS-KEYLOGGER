@@ -15,7 +15,7 @@
 > с которого были нажаты клавиши
 </br>
 
-<img alt="screen" align="center" src="https://github.com/K3rnel-Dev/LOCAL-ATTACK/blob/main/img/meme.jpg">
+<img alt="screen" align="center" src="https://github.com/K3rnel-Dev/JS-KEYLOGGER/blob/main/img/meme.jpg">
 
 
 
